@@ -93,7 +93,7 @@ generate_qr_with_logo(link, logo_path, output_path)
 ## Example Command to Run the Script
 
 ```bash
-python generate_qr_with_logo.py
+python QR_Generation.py
 ```
 ## Example Output
 The QR code will be saved as a PNG file, with the logo embedded in the center. The script ensures that the logo doesn’t interfere with the QR code by leaving a clear space in the middle.
